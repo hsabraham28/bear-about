@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bear-about/static/css/main.3cb29b1d.chunk.css",
+    "main.js": "/bear-about/static/js/main.c39a08e1.chunk.js",
+    "main.js.map": "/bear-about/static/js/main.c39a08e1.chunk.js.map",
+    "runtime-main.js": "/bear-about/static/js/runtime-main.f35188a3.js",
+    "runtime-main.js.map": "/bear-about/static/js/runtime-main.f35188a3.js.map",
+    "static/js/2.b8bfa9ea.chunk.js": "/bear-about/static/js/2.b8bfa9ea.chunk.js",
+    "static/js/2.b8bfa9ea.chunk.js.map": "/bear-about/static/js/2.b8bfa9ea.chunk.js.map",
+    "index.html": "/bear-about/index.html",
+    "precache-manifest.77f0186bbb4e017b3a7fbf81e68fb281.js": "/bear-about/precache-manifest.77f0186bbb4e017b3a7fbf81e68fb281.js",
+    "service-worker.js": "/bear-about/service-worker.js",
+    "static/css/main.3cb29b1d.chunk.css.map": "/bear-about/static/css/main.3cb29b1d.chunk.css.map",
+    "static/js/2.b8bfa9ea.chunk.js.LICENSE.txt": "/bear-about/static/js/2.b8bfa9ea.chunk.js.LICENSE.txt",
+    "static/media/oski.png": "/bear-about/static/media/oski.4b45812d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f35188a3.js",
+    "static/js/2.b8bfa9ea.chunk.js",
+    "static/css/main.3cb29b1d.chunk.css",
+    "static/js/main.c39a08e1.chunk.js"
+  ]
+}
